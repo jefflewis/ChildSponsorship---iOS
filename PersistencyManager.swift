@@ -9,5 +9,5 @@
 import UIKit
 
 class PersistencyManager: NSObject {
-
+  private var users = [User]()
 }
